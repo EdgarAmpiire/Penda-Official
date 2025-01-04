@@ -5,7 +5,7 @@ import SEO from '../common/SEO';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import CounterUpTwo from '../component/counterup/CounterUpTwo';
+// import CounterUpTwo from '../component/counterup/CounterUpTwo';
 import TeamOne from '../component/team/TeamOne';
 import VideoTwo from '../component/video/VideoTwo';
 

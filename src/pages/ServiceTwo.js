@@ -1,14 +1,14 @@
 import React from 'react';
 import FooterOne from '../common/footer/FooterOne';
 import HeaderOne from '../common/header/HeaderOne';
-import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
+// import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import SEO from '../common/SEO';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import SectionTitle from '../elements/section-title/SectionTitle';
 import ServicePropOne from '../component/service/ServicePropOne';
 import AboutThree from '../component/about/AboutThree';
-import CounterUpTwo from '../component/counterup/CounterUpTwo';
+// import CounterUpTwo from '../component/counterup/CounterUpTwo';
 import BcrumbBannerTwo from '../elements/breadcrumb/BcrumbBannerTwo';
 
 
