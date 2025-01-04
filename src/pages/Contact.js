@@ -40,7 +40,7 @@ const Contact = () => {
                             <div className="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
                                 <h4 className="title">Email</h4>
                                 <p>Our support team will get back to in 48-h during standard business hours.</p>
-                                <h4 className="phone-number"><a href="mailto:info@pendaagency.com">info@pendaagency.com</a></h4>
+                                <h6 className="contact-email"><a href="mailto:info@pendaagency.com">info@pendaagency.com</a></h6>
                             </div>
                         </div>
                     </div>
