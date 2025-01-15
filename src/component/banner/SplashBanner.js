@@ -1,6 +1,6 @@
 import React from 'react';
-import CountUp from 'react-countup';
-import TrackVisibility from 'react-on-screen';
+// import CountUp from 'react-countup';
+// import TrackVisibility from 'react-on-screen';
 import { Link } from 'react-router-dom';
 import Slider from "react-slick";
 import { slugify } from '../../utils';
@@ -8,23 +8,23 @@ import SplashData from '../../data/splash/SplashData.json';
 
 const DemoData = SplashData[0];
 
-const CountData = [
-    {
-        id: 1,
-        title: "Demo Website (More Coming)",
-        count_num: "5"
-    },
-    {
-        id: 2,
-        title: "Inner Page",
-        count_num: "30"
-    },
-    {
-        id: 3,
-        title: "Elements",
-        count_num: "30"
-    }
-]
+// const CountData = [
+//     {
+//         id: 1,
+//         title: "Demo Website (More Coming)",
+//         count_num: "5"
+//     },
+//     {
+//         id: 2,
+//         title: "Inner Page",
+//         count_num: "30"
+//     },
+//     {
+//         id: 3,
+//         title: "Elements",
+//         count_num: "30"
+//     }
+// ]
 
 var slideSettings = {
     infinite: true,
@@ -53,11 +53,11 @@ var slideSettings = {
 const SplashBanner = () => {
     return (
         <div className="section splash-main-banner">
-            <div className="container">
+            {/* <div className="container">
                 <div className="row justify-content-center">
                     <div className="col-lg-10">
                         <div className="banner-content">
-                            <h1 className="title">Creative Agency, Corporate and Portfolio <span>React JS</span> Template + RTL</h1>
+                            <h1 className="title">Penda Agency, Corporate and Portfolio <span>React JS</span> Template + RTL</h1>
                             <div className="site-element-count">
                                 {
                                     CountData.map((data) => (
@@ -80,7 +80,7 @@ const SplashBanner = () => {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
             
             <div className="demo-slider">
                 <Slider {...slideSettings} className="slick-dot-nav">

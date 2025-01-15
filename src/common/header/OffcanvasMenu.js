@@ -65,7 +65,7 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                 <address className="address">
                   <span className="title">Contact Information</span>
                   <p>
-                    Plot 21, Kaduyu Lane <br /> Kampala, Uganda
+                    Plot 21, Kaduyu Lane, Kiwatule <br /> Kampala, Uganda
                   </p>
                 </address>
                 <address className="address">
