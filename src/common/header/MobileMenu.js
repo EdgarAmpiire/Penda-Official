@@ -1,16 +1,16 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { FaTimes } from "react-icons/fa";
-import Nav from "./Nav";
-import {
-  FaFacebookF,
-  FaLinkedinIn,
-  //   FaBehance,
-  FaPhone,
-  //   FaFax,
-  FaInstagram,
-  FaYoutube,
-} from "react-icons/fa";
+// import Nav from "./Nav";
+// import {
+//   FaFacebookF,
+//   FaLinkedinIn,
+//   //   FaBehance,
+//   FaPhone,
+//   //   FaFax,
+//   FaInstagram,
+//   FaYoutube,
+// } from "react-icons/fa";
 
 const MobileMenu = ({ MobileHandler }) => {
   return (
