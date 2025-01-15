@@ -41,7 +41,7 @@
     height: 1000px;
     z-index: 2;
     @media #{$laptop-device} {
-        padding: 200px 0;
+        padding: 120px 0;
     }
     @media #{$smlg-device} {
         height: auto;

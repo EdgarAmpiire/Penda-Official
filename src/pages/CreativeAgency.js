@@ -2,7 +2,7 @@ import React from 'react';
 import FooterOne from '../common/footer/FooterOne';
 import HeaderTwo from '../common/header/HeaderTwo';
 import SEO from '../common/SEO';
-import BannerTwo from '../component/banner/BannerTwo';
+// import BannerTwo from '../component/banner/BannerTwo';
 import SplashBanner from '../component/banner/SplashBanner';
 // import BlogOne from '../component/blog/BlogOne';
 import BrandOne from '../component/brand/BrandOne';
@@ -15,7 +15,7 @@ import SectionTitle from '../elements/section-title/SectionTitle';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 // import HeaderOne from '../common/header/HeaderOne';
 // import ProjectFive from '../component/project/ProjectFive';
-import BlogGridOne from '../component/blog/BlogGridOne';
+// import BlogGridOne from '../component/blog/BlogGridOne';
 
 
 const CreativeAgency = () => {
