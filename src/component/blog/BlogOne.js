@@ -1,6 +1,6 @@
 import React from 'react';
 import SectionTitle from '../../elements/section-title/SectionTitle';
-import BlogListOne from '../../component/blog/BlogListOne';
+import BlogListOne from '../../component/blog/BlogListOne'; 
 
 
 const BlogOne = () => {

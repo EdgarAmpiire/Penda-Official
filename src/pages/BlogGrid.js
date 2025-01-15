@@ -4,7 +4,7 @@ import HeaderOne from '../common/header/HeaderOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import BreadCrumbOne from '../elements/breadcrumb/BreadCrumbOne';
 import BlogSidebar from '../component/blog/BlogSidebar';
-import BlogGridOne from '../component/blog/BlogGridOne';
+import BlogGridOne from '../component/blog/BlogGridOne'; 
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import SEO from '../common/SEO';
 
@@ -18,7 +18,7 @@ const BlogGridView = () => {
             <main className="main-wrapper">
                 <HeaderOne />
                 <BreadCrumbOne 
-                title="Blogs"
+                title="Blogssss"
                 page="Blog"
                 />
                 <div className="section-padding-equal">
