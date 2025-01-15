@@ -7,7 +7,7 @@ const Nav = () => {
   return (
     <nav className="mainmenu-nav">
       <ul className="mainmenu">
-      <li>
+      {/* <li>
           <Link to={process.env.PUBLIC_URL + "/"}>Home</Link>
         </li>
         <li>
@@ -21,7 +21,7 @@ const Nav = () => {
         </li>
         <li>
           <Link to={process.env.PUBLIC_URL + "/contact"}>Contact</Link>
-        </li>
+        </li> */}
         
 
         {/* <li className="menu-item-has-children">
