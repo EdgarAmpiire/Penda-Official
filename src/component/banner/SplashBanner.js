@@ -3,7 +3,7 @@ import React from 'react';
 // import TrackVisibility from 'react-on-screen';
 import { Link } from 'react-router-dom';
 import Slider from "react-slick";
-import { slugify } from '../../utils';
+// import { slugify } from '../../utils';
 import SplashData from '../../data/splash/SplashData.json';
 
 const DemoData = SplashData[0];
@@ -86,7 +86,9 @@ const SplashBanner = () => {
                 <Slider {...slideSettings} className="slick-dot-nav">
                     {DemoData.slice(0, 5).map((data) => (
                         <div className="single-slide" key={data.id}>
-                            <Link to={`${process.env.PUBLIC_URL}/${slugify(data.title)}`}>
+                            <Link 
+                            // to={`${process.env.PUBLIC_URL}/${slugify(data.title)}`}
+                            >
                                 <img src={`${process.env.PUBLIC_URL}${data.width_img}`} alt="Demo" />
                             </Link>
                         </div>
@@ -94,7 +96,7 @@ const SplashBanner = () => {
                 </Slider> 
             </div>
 
-            <ul className="list-unstyled shape-group-20">
+            {/* <ul className="list-unstyled shape-group-20">
                 <li className="shape shape-1">
                 <img src={process.env.PUBLIC_URL + "/images/others/bubble-36.png"} alt="Bubble" />
                 </li>
@@ -107,7 +109,7 @@ const SplashBanner = () => {
                 <li className="shape shape-7">
                 <img src={process.env.PUBLIC_URL + "/images/others/bubble-31.png"} alt="Bubble" />
                 </li>
-            </ul>
+            </ul> */}
         </div>
     )
 }

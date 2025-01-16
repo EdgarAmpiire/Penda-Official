@@ -37,15 +37,15 @@
 // Banner 
 .splash-main-banner {
     background-color: var(--color-light);
-    padding: 240px 0;
-    height: 1000px;
+    padding: 200px 0;
+    height: 800px;
     z-index: 2;
     @media #{$laptop-device} {
-        padding: 120px 0;
+        padding: 60px 0;
     }
     @media #{$smlg-device} {
         height: auto;
-        padding: 240px 0 50px;
+        padding: 120px 0 50px;
     }
     @media #{$md-layout} {
         padding: 170px 0 0;
