@@ -1,7 +1,7 @@
 import React from 'react';
 // import CountUp from 'react-countup';
 // import TrackVisibility from 'react-on-screen';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 import Slider from "react-slick";
 // import { slugify } from '../../utils';
 import SplashData from '../../data/splash/SplashData.json';
@@ -86,11 +86,9 @@ const SplashBanner = () => {
                 <Slider {...slideSettings} className="slick-dot-nav">
                     {DemoData.slice(0, 5).map((data) => (
                         <div className="single-slide" key={data.id}>
-                            <Link to="/"
-                            // to={`${process.env.PUBLIC_URL}/${slugify(data.title)}`}
-                            >
+                         
                                 <img src={`${process.env.PUBLIC_URL}${data.width_img}`} alt="Demo" />
-                            </Link>
+                           
                         </div>
                     ))}
                 </Slider> 
