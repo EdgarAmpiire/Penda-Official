@@ -86,11 +86,9 @@ const SplashBanner = () => {
                 <Slider {...slideSettings} className="slick-dot-nav">
                     {DemoData.slice(0, 5).map((data) => (
                         <div className="single-slide" key={data.id}>
-                            <Link to="/"
-                            // to={`${process.env.PUBLIC_URL}/${slugify(data.title)}`}
-                            >
+                         
                                 <img src={`${process.env.PUBLIC_URL}${data.width_img}`} alt="Demo" />
-                            </Link>
+                           
                         </div>
                     ))}
                 </Slider> 
