@@ -26,6 +26,7 @@ const CreativeAgency = () => {
         <ColorSwitcher />
         <main className="main-wrapper">
             <HeaderTwo />
+            
             {/* <BannerTwo /> */}
             <SplashBanner />
             <div className="section section-padding">
