@@ -9,8 +9,10 @@ import {
 //   FaFax,
   FaInstagram,
   FaYoutube,
+  // FaXTwitter,
+  FaTiktok,
 } from "react-icons/fa";
-// import { FaXTwitter } from "react-icons/fa6";
+import { FaXTwitter } from "react-icons/fa6";
 
 const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
   return (
@@ -99,6 +101,16 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                     <li>
                       <a href="https://www.youtube.com/channel/UCKEH2J6WhRLz9w7QB5foiuw">
                         <FaYoutube />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.youtube.com/channel/UCKEH2J6WhRLz9w7QB5foiuw">
+                        <FaXTwitter />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.youtube.com/channel/UCKEH2J6WhRLz9w7QB5foiuw">
+                        <FaTiktok />
                       </a>
                     </li>
                   </ul>
