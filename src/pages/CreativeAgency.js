@@ -7,7 +7,8 @@ import SplashBanner from '../component/banner/SplashBanner';
 // import BlogOne from '../component/blog/BlogOne';
 import BrandOne from '../component/brand/BrandOne';
 // import CounterUpOne from '../component/counterup/CounterUpOne';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
+// import CtaLayoutOne from '../component/cta/CtaLayoutOne';
+import SplashCta from '../component/cta/SplashCta';
 import ProjectOne from '../component/project/ProjectOne';
 import ServicePropOne from '../component/service/ServicePropOne';
 import TestimonialOne from '../component/testimonial/TestimonialOne';
@@ -56,7 +57,8 @@ const CreativeAgency = () => {
             <TestimonialOne />
             <BrandOne />
             {/* <BlogOne /> */}
-            <CtaLayoutOne />
+            {/* <CtaLayoutOne /> */}
+            <SplashCta />
             <FooterOne parentClass="" />
         </main>
         </>

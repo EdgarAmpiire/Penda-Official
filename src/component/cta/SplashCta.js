@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 
 const SplashCta = () => {
     return (
@@ -8,8 +8,12 @@ const SplashCta = () => {
                 <div className="call-to-action">
                 <div className="section-heading heading-light">
                     <h2 className="title">Let’s Start <br /> Your Business Today!</h2>
-                    <p>Missing something? Just tell us what you need by <a href="https://support.axilthemes.com/support/">requesting us here.</a> </p>
-                    <a target="_blank" rel="noopener noreferrer" href="https://themeforest.net/cart/configure_before_adding/37917149" className="axil-btn btn-fill-white">Buy Now</a>
+                    {/* <p>Missing something? Just tell us what you need by <a href="https://support.axilthemes.com/support/">requesting us here.</a> </p> */}
+                   
+                    {/* <a target="_blank" rel="noopener noreferrer" href="https://themeforest.net/cart/configure_before_adding/37917149" className="axil-btn btn-fill-white">Buy Now</a> */}
+                 <Link to={process.env.PUBLIC_URL + "/contact"} className="axil-btn btn-large btn-fill-white">
+                                            Estimate Project
+                                        </Link>
                 </div>
                 </div>
             </div>
