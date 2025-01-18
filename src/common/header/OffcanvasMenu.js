@@ -75,6 +75,9 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                   <a href="tel:0775408295" className="tel">
                     <FaPhone /> +256 775 408295
                   </a>
+                  <a href="tel:0775408295" className="tel">
+                    <FaPhone />+256 754 073018
+                  </a>
                   {/* <a href="tel:12125553333" className="tel"><FaFax /> (121) 255-53333</a> */}
                 </address>
               </div>
