@@ -50,7 +50,7 @@ const HeaderTwo = () => {
                             <div className="header-action">
                                 <ul className="list-unstyled">
                                     <li className="sidemenu-btn d-lg-block d-none">
-                                        <button className="btn-wrap btn-dark" onClick={OffcanvasHandleShow}>
+                                        <button className="btn-wrap btn-dark " onClick={OffcanvasHandleShow}>
                                             <span></span>
                                             <span></span>
                                             <span></span>
