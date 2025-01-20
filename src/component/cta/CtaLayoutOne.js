@@ -6,7 +6,7 @@ const CtaLayoutOne = () => {
 
     return (
 
-        <div className="section call-to-action-area">
+        <div className="section call-to-action-area"> 
             <div className="container">
                 <div className="call-to-action">
                     <div className="section-heading heading-light">

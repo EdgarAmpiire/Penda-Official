@@ -9,8 +9,10 @@ import {
 //   FaFax,
   FaInstagram,
   FaYoutube,
+  // FaXTwitter,
+  FaTiktok,
 } from "react-icons/fa";
-// import { FaXTwitter } from "react-icons/fa6";
+import { FaXTwitter } from "react-icons/fa6";
 
 const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
   return (
@@ -73,6 +75,9 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                   <a href="tel:0775408295" className="tel">
                     <FaPhone /> +256 775 408295
                   </a>
+                  <a href="tel:0775408295" className="tel">
+                    <FaPhone />+256 754 073018
+                  </a>
                   {/* <a href="tel:12125553333" className="tel"><FaFax /> (121) 255-53333</a> */}
                 </address>
               </div>
@@ -99,6 +104,16 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                     <li>
                       <a href="https://www.youtube.com/channel/UCKEH2J6WhRLz9w7QB5foiuw">
                         <FaYoutube />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.youtube.com/channel/UCKEH2J6WhRLz9w7QB5foiuw">
+                        <FaXTwitter />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.youtube.com/channel/UCKEH2J6WhRLz9w7QB5foiuw">
+                        <FaTiktok />
                       </a>
                     </li>
                   </ul>

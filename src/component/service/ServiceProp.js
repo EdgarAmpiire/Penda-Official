@@ -4,7 +4,7 @@ import { slugify } from '../../utils';
 
 
 
-const ServiceProp = ({colSize, serviceStyle, serviceData}) => {
+const ServiceProp = ({colSize, serviceStyle, serviceData}) => { 
 
     return (
 		<>
