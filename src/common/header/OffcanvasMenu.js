@@ -20,8 +20,8 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
       show={offcanvasShow}
       onHide={offcanvasHide}
       placement="end"
-      className="header-offcanvasmenu">
-      <Offcanvas.Header closeButton></Offcanvas.Header>
+      className="header-offcanvasmenu ">
+      <Offcanvas.Header className="" closeButton></Offcanvas.Header>
       <Offcanvas.Body>
         {/* <form action="#" className="side-nav-search-form">
                     <div className="form-group">
