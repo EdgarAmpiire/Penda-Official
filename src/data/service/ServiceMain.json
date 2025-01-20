@@ -1,6 +1,6 @@
 [
     {
-        "image": "/images/icon/icon-1.png",
+        "image": "/images/icon/live.png",
         "title": "Live Streaming",
         "description": "Bring your events to life with seamless, high-quality live streaming. From corporate conferences to entertainment events, we ensure your audience is engaged in real time, no matter where they are.",
         "process": {
@@ -37,7 +37,7 @@
         }
     },
     {
-        "image": "/images/icon/icon-2.png",
+        "image": "/images/icon/video-camera.png",
         "title": "Videography",
         "description": "Capture every moment with professional videography that tells your story. Whether it’s a promotional video or an unforgettable event, we bring your vision to the screen with precision and creativity.",
         "process": {
@@ -74,7 +74,7 @@
         }
     },
     {
-        "image": "/images/icon/icon-3.png",
+        "image": "/images/icon/photography.png",
         "title": "Photography",
         "description": "Freeze time with stunning, high-resolution photography. Our team captures the essence of every moment, ensuring your brand or event is visually unforgettable.",
         "process": {
