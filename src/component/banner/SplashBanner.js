@@ -29,14 +29,14 @@ const DemoData = SplashData[0];
 var slideSettings = {
     infinite: true,
     speed: 500,
-    autoplaySpeed: 1500,
+    autoplaySpeed: 3000,
     autoplay: true,
     slidesToShow: 1,
     slidesToScroll: 1,
     variableWidth: true,
     centerMode: true,
     arrows: false,
-    dots: true,
+    dots: false,
     swipeToSlide: false,
     draggable: false,
     responsive: [
