@@ -94,7 +94,7 @@ const SplashBanner = () => {
                 </Slider> 
             </div>
 
-            {/* <ul className="list-unstyled shape-group-20">
+            <ul className="list-unstyled shape-group-20">
                 <li className="shape shape-1">
                 <img src={process.env.PUBLIC_URL + "/images/others/bubble-36.png"} alt="Bubble" />
                 </li>
@@ -107,7 +107,7 @@ const SplashBanner = () => {
                 <li className="shape shape-7">
                 <img src={process.env.PUBLIC_URL + "/images/others/bubble-31.png"} alt="Bubble" />
                 </li>
-            </ul> */}
+            </ul>
         </div>
     )
 }
