@@ -1,7 +1,7 @@
 [
     {
-        "id": 1,
-        "image": "/images/project/project-1.png",
+        "id": 1, 
+        "image": "/images/project/phone.png",
         "title": "Creative Agency",
         "category": ["Live Stream", "Website", "App"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "image": "/images/project/project-2.png",
+        "image": "/images/project/peopless.png",
         "title": "Digital Marketing",
         "category": ["Live Stream", "Website", "Mobile"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "image": "/images/project/project-3.png",
+        "image": "/images/project/livestream.png",
         "title": "Digital Agency",
         "category": ["Videography", "Photography"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "image": "/images/project/project-4.png",
+        "image": "/images/project/chairs.png",
         "title": "Plan Management",
         "category": ["Videography", "Photography", "Mobile"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "image": "/images/project/project-5.png",
+        "image": "/images/project/psfu.png",
         "title": "Social Engagement",
         "category": ["Live Stream", "Videography"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",

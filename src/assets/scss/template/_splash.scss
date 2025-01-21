@@ -44,7 +44,7 @@
         padding: 60px 0;
     }
     @media #{$smlg-device} {
-        height: auto;
+        height: auto; 
         padding: 120px 0 50px;
     }
     @media #{$md-layout} {
@@ -57,8 +57,8 @@
         content: "";
         height: 100%;
         width: 100%;
-        // background: linear-gradient(0deg, rgba(250,184,196, 0.7) 10%, #FFFFFF 100%);
-        background: linear-gradient(0deg, #073446 1%, #FFFFFF 100%);
+        background: linear-gradient(0deg, rgba(250,184,196, 0.7) 10%, #FFFFFF 100%);
+        // background: linear-gradient(0deg, #073446 1%, #FFFFFF 100%);
         clip-path: circle(103% at 50% -52%);
         position: absolute;
         top: 0;
