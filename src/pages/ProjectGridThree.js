@@ -9,7 +9,7 @@ import ProjectOne from '../component/project/ProjectOne';
 import BcrumbBannerTwo from '../elements/breadcrumb/BcrumbBannerTwo';
 
 
-const ProjectGridThree = () => {
+const ProjectGridThree = () => { 
 
     return (
         <>

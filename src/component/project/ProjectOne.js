@@ -8,19 +8,7 @@ import ProjectData from "../../data/project/ProjectData.json";
 const filters = [
 	{
 		id: 1,
-		label: "All Works",
-    },
-    {
-		id: 2,
-		label: "Live Stream",
-    },
-    {
-		id: 3,
-		label: "Videography",
-    },
-    {
-		id: 4,
-		label: "Photography",
+		label: "",
     }
 ];
 
@@ -69,9 +57,8 @@ const ProjectOne = ({parentClass, colSize, itemShow, columnGap}) => {
 			<div className={`section section-padding-2 ${parentClass ? parentClass : ""}`}>
                 <div className="container">
                 <SectionTitle 
-                        subtitle="Our Projects"
-                        title="Some of our <br>
-                        finest work."
+                        // subtitle="Our Projects"
+                        title="Some of our finest work."
                         textAlignment="heading-left mb--40"
                         textColor=""
                     />
@@ -87,9 +74,9 @@ const ProjectOne = ({parentClass, colSize, itemShow, columnGap}) => {
 						))}
 
 					</div>
-					<div className={`row ${columnGap ? columnGap : "row-35"}`}>
+					<div className={`row ${columnGap ? columnGap : "row-10"}`}>
 						{visibleItems.map((data) => (
-							<div className={colSize ? colSize : "col-md-6"} key={data.id}>
+							<div className={colSize ? colSize : "col-md-5"} key={data.id}>
 								<ProjectPropOne projectStyle="" portfolio={data}/>
 							</div>
 						))}

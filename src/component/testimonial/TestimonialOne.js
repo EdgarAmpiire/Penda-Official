@@ -4,12 +4,12 @@ import TestimonialPropOne from './TestimonialPropOne';
 
 const TestimonialOne = () => {
     return (
-        <div className="section section-padding">
+        <div className="section section-padding-testimonial">
             <div className="container">
                 <SectionTitle 
-                    subtitle="Testimonial"
-                    title="Voices of Satisfaction"
-                    description="Don’t just take our word for it—hear from our satisfied clients! At Penda Agency, we pride ourselves on delivering exceptional service and results. Here’s what our clients have to say about their experiences working with us."
+                    // subtitle="Testimonial"
+                    // title="Voices of Satisfaction"
+                    // description="Don’t just take our word for it—hear from our satisfied clients! At Penda Agency, we pride ourselves on delivering exceptional service and results. Here’s what our clients have to say about their experiences working with us."
                     textAlignment="heading-left"
                     textColor=""
                 />
