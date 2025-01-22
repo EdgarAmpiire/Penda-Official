@@ -3,7 +3,7 @@
         "id": 1, 
         "image": "/images/project/phone.png", 
         "title": "Creative Agency",
-        "category": ["Live Stream", "Website", "App"],
+        "category": [],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "image": "/images/project/peopless.png",
         "title": "Digital Marketing",
-        "category": ["Live Stream", "Website", "Mobile"],
+        "category": [],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "image": "/images/project/livestream.png",
         "title": "Digital Agency",
-        "category": ["Videography", "Photography"],
+        "category": [],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "image": "/images/project/chairs.png",
         "title": "Plan Management",
-        "category": ["Videography", "Photography", "Mobile"],
+        "category": [],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
         "body": ["From the designers and engineers who are creating the next generation of web and mobile experiences, to anyone putting a website together for the first time. We provide elegant solutions that set new standards for online publishing.", "Digital technology has made our world more transparent and interconnected, posing new challenges and opportunities for every business. A holistic, user-centric perspective is what truly sets one apart."]
     },
