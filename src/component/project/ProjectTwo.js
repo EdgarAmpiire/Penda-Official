@@ -8,12 +8,13 @@ const portfolioData = ProjectData;
 
 const ProjectTwo = () => {
     return (
-        <div className="section section-padding-equal bg-color-dark">
+        <div className="section section-padding-equal bg-color-primary">
             <div className="container">
             <SectionTitle 
-                subtitle="Case study"
-                title="Selected projects"
-                description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue eget risus imperdiet."
+                // subtitle="Our Projects"
+                title="Some of our <br>
+                        finest work."
+                description="Showcasing our best work, where creativity meets excellence."
                 textAlignment="heading-light-left"
                 textColor=""
             />

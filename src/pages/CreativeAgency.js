@@ -9,7 +9,8 @@ import BannerTwo from '../component/banner/BannerTwo';
 // import CounterUpOne from '../component/counterup/CounterUpOne';
 // import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import SplashCta from '../component/cta/SplashCta';
-import ProjectOne from '../component/project/ProjectOne';
+// import ProjectOne from '../component/project/ProjectOne';
+import ProjectTwo from '../component/project/ProjectTwo';
 import ServicePropOne from '../component/service/ServicePropOne';
 import TestimonialOne from '../component/testimonial/TestimonialOne';
 import SectionTitle from '../elements/section-title/SectionTitle';
@@ -51,7 +52,7 @@ const CreativeAgency = () => {
                 </ul>
 
             </div>
-            <ProjectOne parentClass="bg-color-light" colSize="col-xl-3 col-lg-4 col-md-6" itemShow="4" columnGap="row-15"/>
+            <ProjectTwo parentClass="bg-color-light" colSize="col-xl-3 col-lg-4 col-md-6" itemShow="4" columnGap="row-15"/>
             {/* <ProjectFive /> */}
             {/* <CounterUpOne /> */}
             <TestimonialOne />

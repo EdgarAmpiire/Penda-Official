@@ -1,7 +1,7 @@
 [
     {
-        "image": "/images/icon/live.png",
-        "title": "Live Streaming",
+        "image": "/images/icon/icon-2.png",
+        "title": "Events Management",
         "description": "Bring your events to life with seamless, high-quality live streaming. From corporate conferences to entertainment events, we ensure your audience is engaged in real time, no matter where they are.",
         "process": {
             "sectionSub": "Process",
@@ -37,8 +37,8 @@
         }
     },
     {
-        "image": "/images/icon/video-camera.png",
-        "title": "Videography",
+        "image": "/images/icon/icon-3.png",
+        "title": "AV Equipment Supply",
         "description": "Capture every moment with professional videography that tells your story. Whether it’s a promotional video or an unforgettable event, we bring your vision to the screen with precision and creativity.",
         "process": {
             "sectionSub": "Process",
@@ -74,8 +74,8 @@
         }
     },
     {
-        "image": "/images/icon/photography.png",
-        "title": "Photography",
+        "image": "/images/icon/live.png",
+        "title": "LiveStreaming",
         "description": "Freeze time with stunning, high-resolution photography. Our team captures the essence of every moment, ensuring your brand or event is visually unforgettable.",
         "process": {
             "sectionSub": "Process",
@@ -112,7 +112,7 @@
     },
     {
         "image": "/images/icon/icon-4.png",
-        "title": "Business",
+        "title": "Video Confrencing",
         "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
         "process": {
             "sectionSub": "Process",
@@ -148,8 +148,8 @@
         }
     },
     {
-        "image": "/images/icon/icon-5.png",
-        "title": "Technology",
+        "image": "/images/icon/video-camera.png",
+        "title": "Videography",
         "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
         "process": {
             "sectionSub": "Process",
@@ -185,8 +185,8 @@
         }
     },
     {
-        "image": "/images/icon/icon-6.png",
-        "title": "Content strategy",
+        "image": "/images/icon/photography.png",
+        "title": "Photography",
         "description": "Simply drag and drop photos and videos into your workspace to automatically add them to your Collab Cloud library.",
         "process": {
             "sectionSub": "Process",
@@ -224,7 +224,7 @@
 
     {
         "image": "/images/icon/icon-29.png",
-        "title": "Logo & Branding",
+        "title": "Documentaries",
         "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
         "cate": "Design",
         "process": {
@@ -262,7 +262,7 @@
     },
     {
         "image": "/images/icon/icon-27.png",
-        "title": "Website Design",
+        "title": "Graphics Design",
         "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
         "cate": "Design",
         "process": {
@@ -300,7 +300,7 @@
     },
     {
         "image": "/images/icon/icon-28.png",
-        "title": "Mobile app design",
+        "title": "Web Design",
         "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
         "cate": "Design",
         "process": {
@@ -338,7 +338,7 @@
     },
     {
         "image": "/images/icon/icon-4.png",
-        "title": "Graphic/print design",
+        "title": "Podcats",
         "description": "We design professional looking yet simple Logo. Our designs are search engine and user friendly.",
         "cate": "Design",
         "process": {

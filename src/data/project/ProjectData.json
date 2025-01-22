@@ -1,7 +1,7 @@
 [
     {
         "id": 1, 
-        "image": "/images/project/phone.png",
+        "image": "/images/project/phone.png", 
         "title": "Creative Agency",
         "category": ["Live Stream", "Website", "App"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
@@ -97,7 +97,7 @@
     },
     {
         "id": 13,
-        "image": "/images/project/project-7.png",
+        "image": "/images/project/cover-1.png",
         "title": "Mark Design",
         "category": ["ios", "Design"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
@@ -105,7 +105,7 @@
     },
     {
         "id": 14,
-        "image": "/images/project/project-8.png",
+        "image": "/images/project/cover-2.png",
         "title": "Abastrak Agency",
         "category": ["ios", "Design"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
@@ -113,7 +113,7 @@
     },
     {
         "id": 15,
-        "image": "/images/project/project-9.png",
+        "image": "/images/project/cover-3.png",
         "title": "Archi- Online platform",
         "category": ["ios", "design"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
@@ -121,7 +121,7 @@
     },
     {
         "id": 16,
-        "image": "/images/project/project-12.png",
+        "image": "/images/project/cover-4.png",
         "title": "Wordpress theme",
         "category": ["ios", "design"],
         "excerpt": "A quick view of industry specific problems solved with design by the awesome team at Keystroke.",
