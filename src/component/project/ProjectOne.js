@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import ProjectPropOne from './itemProp/ProjectPropOne';
+// import ProjectPropTwo from './itemProp/ProjectPropTwo';
 import SectionTitle from '../../elements/section-title/SectionTitle';
 import ProjectData from "../../data/project/ProjectData.json";
 
