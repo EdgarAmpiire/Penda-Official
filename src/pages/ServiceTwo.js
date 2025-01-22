@@ -4,7 +4,8 @@ import HeaderOne from '../common/header/HeaderOne';
 // import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import SEO from '../common/SEO';
-import CtaLayoutOne from '../component/cta/CtaLayoutOne';
+// import CtaLayoutOne from '../component/cta/CtaLayoutOne';
+import SplashCta from '../component/cta/SplashCta';
 import SectionTitle from '../elements/section-title/SectionTitle';
 import ServicePropOne from '../component/service/ServicePropOne';
 import AboutThree from '../component/about/AboutThree';
@@ -46,14 +47,16 @@ const ServiceTwo = () => {
                         textColor=""
                     />
                     <div className="row">
-                        <ServicePropOne colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" itemShow="6" marginTop="no" />
+                        <ServicePropOne colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" itemShow="10" marginTop="no" />
                     </div>
                 </div>
             </div>
 
             <AboutThree />
             
-            <CtaLayoutOne />
+            {/* <CtaLayoutOne /> */}
+            <SplashCta />
+
             <FooterOne parentClass="" />
         </main>
         </>
