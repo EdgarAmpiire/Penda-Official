@@ -2,8 +2,8 @@ import React from 'react';
 import FooterOne from '../common/footer/FooterOne';
 import HeaderTwo from '../common/header/HeaderTwo';
 import SEO from '../common/SEO';
-// import BannerTwo from '../component/banner/BannerTwo';
-import SplashBanner from '../component/banner/SplashBanner';
+import BannerTwo from '../component/banner/BannerTwo';
+// import SplashBanner from '../component/banner/SplashBanner';
 // import BlogOne from '../component/blog/BlogOne';
 // import BrandOne from '../component/brand/BrandOne';
 // import CounterUpOne from '../component/counterup/CounterUpOne';
@@ -28,8 +28,8 @@ const CreativeAgency = () => {
         <main className="main-wrapper">
             <HeaderTwo />
             
-            {/* <BannerTwo /> */}
-            <SplashBanner />
+            <BannerTwo />
+            {/* <SplashBanner /> */}
             <div className="section section-padding">
                 <div className="container">
                 <SectionTitle 
