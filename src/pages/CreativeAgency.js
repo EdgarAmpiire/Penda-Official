@@ -41,7 +41,9 @@ const CreativeAgency = () => {
                     textColor=""
                 />
                     <div className="row">
-                        <ServicePropOne colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" itemShow="3" marginTop="yes"/>
+                        {/* <ServicePropOne colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" itemShow="3" marginTop="yes"/> */}
+                        <ServicePropOne colSize="col-lg-4 col-md-6" serviceStyle="service-style-2" itemShow="10" marginTop="no" />
+                    
                     </div>
                 </div>
                 <ul className="shape-group-7 list-unstyled">
