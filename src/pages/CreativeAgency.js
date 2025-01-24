@@ -10,7 +10,6 @@ import BannerTwo from '../component/banner/BannerTwo';
 // import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import SplashCta from '../component/cta/SplashCta';
 import ProjectOne from '../component/project/ProjectOne';
-// import ProjectTwo from '../component/project/ProjectTwo';
 import ServicePropOne from '../component/service/ServicePropOne';
 import TestimonialOne from '../component/testimonial/TestimonialOne';
 import SectionTitle from '../elements/section-title/SectionTitle';
