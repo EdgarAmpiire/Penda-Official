@@ -1,25 +1,25 @@
 [
 
     {
-        "fromtext": "Yelp",
-        "from": "/images/icon/yelp-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "fromtext": "UNOC",
+        "from": "/images/icon/unoc.png",
+        "description": "“ Working with Penda is seamless! Their branding expertise gave our business a fresh, professional look!”",
         "authorimg": "/images/testimonial/testimonial-1.png",
         "authorname": "Darrell Steward",
         "authordesig": "Executive Chairman"
     },
     {
-        "fromtext": "Google",
-        "from": "/images/icon/google-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "fromtext": "PSFU",
+        "from": "/images/icon/psfu.png",
+        "description": "“ Thanks to Penda, our startup now has a stunning website and a loyal customer base. They made us stand out!”",
         "authorimg": "/images/testimonial/testimonial-2.png",
         "authorname": "Savannah Nguyen",
         "authordesig": "Executive Chairman"
     },
     {
-        "fromtext": "Facebook",
-        "from": "/images/icon/fb-2.png",
-        "description": "“ Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. ”",
+        "fromtext": "UCMP",
+        "from": "/images/icon/ucmp.png",
+        "description": "“ Penda Agency delivered designs that perfectly matched my vision. Their personalized approach is outstanding! ”",
         "authorimg": "/images/testimonial/testimonial-3.png",
         "authorname": "Floyd Miles",
         "authordesig": "Executive Chairman"
