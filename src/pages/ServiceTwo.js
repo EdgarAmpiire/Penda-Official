@@ -34,7 +34,7 @@ const ServiceTwo = () => {
                 paragraph ="At Penda Agency, we offer a wide range of digital solutions tailored to meet your specific needs."
                 paragraphs = "Whether it’s live streaming, videography, or photography, we’re here to help you make an unforgettable impact."
                 styleClass=""
-                mainThumb="/images/banner/banner-thumb-4.png"
+                mainThumb="/images/banner/services-img.png"
             />
             {/* <CounterUpTwo /> */}
             <div className="section section-padding bg-color-light">
