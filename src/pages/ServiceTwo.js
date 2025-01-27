@@ -52,7 +52,7 @@ const ServiceTwo = () => {
                 </div>
             </div>
 
-            <AboutThree />
+            {/* <AboutThree /> */}
             
             {/* <CtaLayoutOne /> */}
             <SplashCta />
