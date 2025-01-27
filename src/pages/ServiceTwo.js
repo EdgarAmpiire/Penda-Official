@@ -8,7 +8,7 @@ import SEO from '../common/SEO';
 import SplashCta from '../component/cta/SplashCta';
 import SectionTitle from '../elements/section-title/SectionTitle';
 import ServicePropOne from '../component/service/ServicePropOne';
-import AboutThree from '../component/about/AboutThree';
+// import AboutThree from '../component/about/AboutThree';
 // import CounterUpTwo from '../component/counterup/CounterUpTwo';
 import BcrumbBannerTwo from '../elements/breadcrumb/BcrumbBannerTwo';
 
