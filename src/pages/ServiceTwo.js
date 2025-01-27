@@ -8,7 +8,7 @@ import SEO from '../common/SEO';
 import SplashCta from '../component/cta/SplashCta';
 import SectionTitle from '../elements/section-title/SectionTitle';
 import ServicePropOne from '../component/service/ServicePropOne';
-import AboutThree from '../component/about/AboutThree';
+// import AboutThree from '../component/about/AboutThree';
 // import CounterUpTwo from '../component/counterup/CounterUpTwo';
 import BcrumbBannerTwo from '../elements/breadcrumb/BcrumbBannerTwo';
 
@@ -34,7 +34,7 @@ const ServiceTwo = () => {
                 paragraph ="At Penda Agency, we offer a wide range of digital solutions tailored to meet your specific needs."
                 paragraphs = "Whether it’s live streaming, videography, or photography, we’re here to help you make an unforgettable impact."
                 styleClass=""
-                mainThumb="/images/banner/banner-thumb-4.png"
+                mainThumb="/images/banner/services-img.png"
             />
             {/* <CounterUpTwo /> */}
             <div className="section section-padding bg-color-light">
@@ -52,7 +52,7 @@ const ServiceTwo = () => {
                 </div>
             </div>
 
-            <AboutThree />
+            {/* <AboutThree /> */}
             
             {/* <CtaLayoutOne /> */}
             <SplashCta />
