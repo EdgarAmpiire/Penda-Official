@@ -6,7 +6,7 @@
     "@axetroy/react-download": "^1.1.1",
     "autoprefixer": "10.4.5",
     "disqus-react": "^1.1.1",
-    "node-sass": "^8.0.0",
+    "node-sass": "^9.0.0",
     "parallax-js": "^3.1.0",
     "react": "^18.2.0",
     "react-countup": "^4.3.3",
