@@ -13,11 +13,10 @@ const ContactContainer = () => {
                         <div className="contact-title-section">
                             <h3 className="title">Get in touch</h3>
                             <p>
-                                Top rated construction packages we pleasure
-                                rationally encounter
+                                Get a free Penda Agency quote now
                                 <br className="d-none d-xl-block" />
-                                consequences interesting who loves or pursue or
-                                desires
+                                {/* consequences interesting who loves or pursue or
+                                desires */}
                             </p>
                         </div>
 

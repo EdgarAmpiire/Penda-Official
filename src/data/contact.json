@@ -2,19 +2,19 @@
     {
         "id": 1,
         "classOption": "address-list mb-4 mb-xl-10 pb-2",
-        "title": "Office Addres",
-        "info": "245 Southern Street, Apartment no. 174 Central Twon, New Yourk, USA"
+        "title": "Office Address",
+        "info": "Plot KL 21 Kaduyu Lane, Kiwatule. <br /> Kampala, Uganda"
     },
     {
         "id": 2,
         "classOption": "address-list mb-4 mb-xl-10 pb-2",
         "title": "Phone Number",
-        "info": "+12345 678 987 <br /> +98745 612 321"
+        "info": "+256 775 408295 <br /> "
     },
     {
         "id": 3,
         "classOption": "address-list",
         "title": "Web Address",
-        "info": "info@example.com <br /> www.example.com"
+        "info": "info@pendaagency.com <br /> "
     }
 ]

@@ -67,7 +67,7 @@ const MainMenu = () => {
                         </li>
                     </ul>
                 </li> */}
-                <li>
+                {/* <li>
                     <NavLink to={process.env.PUBLIC_URL + "/blog"}>
                         Blog
                     </NavLink>
@@ -111,7 +111,7 @@ const MainMenu = () => {
                             </NavLink>
                         </li>
                     </ul>
-                </li>
+                </li> */}
                 <li>
                     <NavLink to={process.env.PUBLIC_URL + "/contact"}>
                         Contact
