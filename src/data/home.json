@@ -34,22 +34,22 @@
                 "id": 1,
                 "className": "grid-item mb-7",
                 "icon": "./images/feature/logo/1.png",
-                "title": "Strong Security",
-                "excerpt": "Pleasure rationally encounter are extremely painful anyone who loves or pursues"
+                "title": "Comprehensive Event Solutions",
+                "excerpt": "We oﬀer end-to-end services in events and audio-visual production, ensuring every detail is professionally managed for a seamless experience."
             },
             {
                 "id": 2,
                 "className": "grid-item card-mt-75 mb-7",
                 "icon": "./images/feature/logo/2.png",
-                "title": "Creative Idea",
-                "excerpt": "Pleasure rationally encounter are extremely painful anyone who loves or pursues"
+                "title": "Expertise and Innovation",
+                "excerpt": "Our experienced team combines creativity and technical expertise to deliver innovative solutions, ensuring your project is a success."
             },
             {
                 "id": 1,
                 "className": "grid-item mb-7",
                 "icon": "./images/feature/logo/3.png",
-                "title": "Best Service",
-                "excerpt": "Pleasure rationally encounter are extremely painful anyone who loves or pursues"
+                "title": "Tailored Engagement",
+                "excerpt": "We value your brand and its unique needs, so we provide tailored solutions that align with your goals for success."
             }
         ]
     },

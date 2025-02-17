@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import Button from "../../../components/button";
+// import Button from "../../../components/button";
 import IconBox from "../../../components/icon-box";
 import SectionTitle from "../../../components/section-title";
 import HomeData from "../../../data/home.json";
@@ -18,18 +18,18 @@ const IconBoxContainer = ({ classOption }) => {
                     <div className="col-xl-6 col-lg-8 mx-auto mb-3 text-center">
                         <SectionTitle
                             classOption="title-section"
-                            subTitle="FEATURES"
+                            // subTitle="FEATURES"
                             title="We are <span class='text-primary'>different</span> because..."
                             excerptClassOption="mb-10"
                             excerpt="Pleasure rationally encounter consequences that are extremely
                             painful. Nor again is there anyone who loves or pursues or
                             desires to obtain"
                         />
-                        <Button
+                        {/* <Button
                             classOption="btn btn-lg btn-dark btn-hover-dark"
                             text="Get Started"
                             path="/about"
-                        />
+                        /> */}
                     </div>
 
                     <div className="col-12">
