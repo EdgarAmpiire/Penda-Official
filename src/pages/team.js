@@ -1,7 +1,7 @@
 import React from "react";
 import ScrollToTop from "../components/scroll-to-top";
 import SEO from "../components/seo";
-import NewsletterArea from "../containers/global/newsletter";
+// import NewsletterArea from "../containers/global/newsletter";
 import PageBanner from "../containers/global/page-banner";
 import TeampPageContainer from "../containers/team-page-container";
 import Footer from "../layouts/footer";
