@@ -26,12 +26,13 @@ const AboutPage = () => {
                         great oppurtunity"
                         image="./images/banner/1.png"
                     />
+                    <AboutContainer />
                     <IconBoxContainer classOption="section-pt" />
                     <BrandContainer />
-                    <AboutContainer />
-                    <ServiceListContainer />
-                    <TestimonialReverse />
-                    <FunFactContainer classOption="mt-0 mt-lg-0" />
+                    {/* <AboutContainer /> */}
+                    {/* <ServiceListContainer /> */}
+                    {/* <TestimonialReverse /> */}
+                    {/* <FunFactContainer classOption="mt-0 mt-lg-0" /> */}
                     <NewsletterArea />
                     <Footer />
                     <ScrollToTop />
