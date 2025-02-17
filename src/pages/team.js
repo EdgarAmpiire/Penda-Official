@@ -17,8 +17,7 @@ const TeamPage = () => {
                     <Header />
                     <PageBanner
                         title="Our Team"
-                        excerpt="Pleasure rationally encounter consequences <br />
-                        are extremely painful great oppurtunity"
+                        excerpt="At Penda Agency, our team is the heart of everything we do."
                         image="./images/team/5.png"
                     />
                     <TeampPageContainer />
