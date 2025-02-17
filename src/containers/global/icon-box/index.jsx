@@ -18,7 +18,7 @@ const IconBoxContainer = ({ classOption }) => {
                     <div className="col-xl-6 col-lg-8 mx-auto mb-3 text-center">
                         <SectionTitle
                             classOption="title-section"
-                            // subTitle="FEATURES"
+                            subTitle="WHO WE ARE"
                             title="We are <span class='text-primary'>different</span> because..."
                             excerptClassOption="mb-10"
                             excerpt="Pleasure rationally encounter consequences that are extremely
