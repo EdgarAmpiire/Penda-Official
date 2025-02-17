@@ -21,13 +21,13 @@ const ServicePage = () => {
                     <Header />
                     <PageBanner
                         title="Our Services"
-                        excerpt="Pleasure rationally encounter consequences <br />
-                        are extremely painful great oppurtunity"
+                        excerpt="At Penda Agency, we offer a wide range of digital solutions tailored to meet your specific needs.
+                        Whether it’s LiveStreaming, Videography, or Photography, we’re here to help you make an unforgettable impact."
                         image="./images/service/2.png"
                     />
                     <ServiceListContainer />
                     <TestimonialReverse />
-                    <FunFactContainer classOption="mt-0 mt-lg-0" />
+                    {/* <FunFactContainer classOption="mt-0 mt-lg-0" /> */}
                     <TeamContainer classOption="null" />
                     <BrandContainer />
                     <NewsletterArea />
