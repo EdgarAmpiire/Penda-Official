@@ -12,7 +12,7 @@ const ContactPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Penda Agency – Contact" />
+                <SEO title="Penda Agency | Contact" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner

@@ -16,7 +16,7 @@ const ServicePage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Buznex – Service" />
+                <SEO title="Penda Agency | Services" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner
