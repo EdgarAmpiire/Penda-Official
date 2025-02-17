@@ -79,7 +79,7 @@ const Footer = () => {
                                                 "/service"
                                             }
                                         >
-                                            Pricing Plan
+                                            Who we are
                                         </Link>
                                     </li>
                                     <li>
@@ -93,7 +93,7 @@ const Footer = () => {
                                             Conditions
                                         </Link>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <Link
                                             className="footer-link"
                                             to={
@@ -102,7 +102,7 @@ const Footer = () => {
                                         >
                                             Blog Post
                                         </Link>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <Link
                                             className="footer-link"
@@ -139,7 +139,7 @@ const Footer = () => {
                                                 `/service-details/2`
                                             }
                                         >
-                                            Business Plan
+                                            Events Management
                                         </Link>
                                     </li>
                                     <li>
@@ -150,7 +150,7 @@ const Footer = () => {
                                                 `/service-details/3`
                                             }
                                         >
-                                            Creative Strategy
+                                            LiveStream & Video Conferencing
                                         </Link>
                                     </li>
                                     <li>
@@ -161,7 +161,7 @@ const Footer = () => {
                                                 `/service-details/4`
                                             }
                                         >
-                                            Branding{" "}
+                                            Audio Visual Equipment Supply
                                         </Link>
                                     </li>
                                     <li>
@@ -172,7 +172,7 @@ const Footer = () => {
                                                 `/service-details/1`
                                             }
                                         >
-                                            Digital Solution
+                                            Documentary Production
                                         </Link>
                                     </li>
                                     <li>
@@ -183,7 +183,7 @@ const Footer = () => {
                                                 `/service-details/5`
                                             }
                                         >
-                                            Marketing Policy
+                                            Graphics Design
                                         </Link>
                                     </li>
                                     <li>
@@ -194,7 +194,7 @@ const Footer = () => {
                                                 `/service-details/6`
                                             }
                                         >
-                                            Campaign &amp; PR
+                                            Photography & Videography
                                         </Link>
                                     </li>
                                 </ul>
@@ -204,41 +204,42 @@ const Footer = () => {
                             <div className="footer-widget">
                                 <h4 className="title">Contact info</h4>
                                 <p>
-                                    245 Southern Street, Apt. 147 New York, USA
+                                    Plot KL 21, Kaduyu Lane Kiwatule <br />{" "}
+                                    Kampala, Uganda.
                                 </p>
                                 <ul className="address">
                                     <li>
                                         <a
                                             className="address-link"
-                                            href="tel:+12354569874"
+                                            href="tel:+256775408295"
                                         >
-                                            +12354 569 874
+                                            +256 775 408295
                                         </a>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <a
                                             className="address-link"
                                             href="tel:+98745612398"
                                         >
                                             +98745 612 398
                                         </a>
-                                    </li>
+                                    </li> */}
                                     <li>
                                         <a
                                             className="address-link"
-                                            href="mailto:info@example.com"
+                                            href="mailto:info@pendaagency.com"
                                         >
-                                            info@example.com
+                                            info@pendaagency.com
                                         </a>
                                     </li>
-                                    <li>
+                                    {/* <li>
                                         <a
                                             className="address-link"
                                             href="mailto:info@example.com"
                                         >
                                             www.example.com
                                         </a>
-                                    </li>
+                                    </li> */}
                                 </ul>
                             </div>
                         </div>
