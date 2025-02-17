@@ -30,12 +30,15 @@ const AboutContainer = () => {
                                 in the Town"
                             />
                             <span className="date-meta">
-                                Scince 2001 <span className="hr"></span>
+                                Scince 2022 <span className="hr"></span>
                             </span>
                             <p className="mb-5">
-                                Pleasure rationally encounter consequences that
-                                are extremely painful. Nor again is there anyone
-                                who loves or pursues or desires to obtain
+                                Penda Agency is an events and audio-visual
+                                production company delivering innovative and
+                                tailored solutions that blend creativity and
+                                technology. Established since 2022 in Uganda, we
+                                are dedicated to empowering new possibilities in
+                                the events and audio-visual industry.
                             </p>
                             <p className="high-light mb-8">
                                 Pleasure rationally encounter consequences that
