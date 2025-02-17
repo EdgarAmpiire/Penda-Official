@@ -252,14 +252,14 @@ const Footer = () => {
                         <div className="col-12">
                             <div className="copyright-info text-center">
                                 <p>
-                                    Copyright &copy; 2021 Made with{" "}
+                                    Copyright &copy; 2025 Made with{" "}
                                     <i className="icofont-heart-alt"></i> By{" "}
                                     <a
-                                        href="https://themeforest.net/user/codecarnival/portfolio"
+                                        href="https://www.deigntech.com"
                                         target="_blank"
                                         rel="noreferrer"
                                     >
-                                        codecarnival
+                                        Deign Technologies Limited
                                     </a>
                                     , All Rights Reserved
                                 </p>
