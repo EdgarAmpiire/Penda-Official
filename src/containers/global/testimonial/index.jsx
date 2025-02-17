@@ -57,12 +57,12 @@ const TestimonialContainer = () => {
                             <SectionTitle
                                 classOption="title-section"
                                 subTitle="TESTIMONIALS"
-                                title="Don’t Believe us Check <span class='text-primary'>Clients</span> word"
+                                title="Hear from our satisfied <span class='text-primary'>Clients</span>"
                             />
                             <h5 className="happy-customer">
                                 More over{" "}
-                                <span className="font-weight-bold">2500</span>{" "}
-                                happy customer
+                                <span className="font-weight-bold">10</span>{" "}
+                                happy clients
                             </h5>
                         </div>
                         <div className="testimonial-carousel position-relative">
