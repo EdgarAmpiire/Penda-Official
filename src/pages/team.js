@@ -1,7 +1,7 @@
 import React from "react";
 import ScrollToTop from "../components/scroll-to-top";
 import SEO from "../components/seo";
-import NewsletterArea from "../containers/global/newsletter";
+// import NewsletterArea from "../containers/global/newsletter";
 import PageBanner from "../containers/global/page-banner";
 import TeampPageContainer from "../containers/team-page-container";
 import Footer from "../layouts/footer";
@@ -12,17 +12,17 @@ const TeamPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Buznex – Team" />
+                <SEO title="Penda Agency | Team" />
                 <div className="wrapper">
                     <Header />
                     <PageBanner
                         title="Our Team"
-                        excerpt="Pleasure rationally encounter consequences <br />
-                        are extremely painful great oppurtunity"
+                        // Team members
+                        excerpt="At Penda Agency, our team is the heart of everything we do."
                         image="./images/team/5.png"
                     />
                     <TeampPageContainer />
-                    <NewsletterArea />
+                    {/* <NewsletterArea /> */}
                     <Footer />
                     <ScrollToTop />
                 </div>

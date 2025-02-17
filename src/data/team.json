@@ -2,14 +2,14 @@
     {
         "id": 1,
         "thumb": "./images/team/1.png",
-        "name": "Cristopher Williams",
-        "designation": "Head of Idea"
+        "name": "Isaac Sekiro",
+        "designation": "Creative Director"
     },
     {
         "id": 2,
         "thumb": "./images/team/2.png",
-        "name": "Julia Rodrigaze",
-        "designation": "Head of Design"
+        "name": "Bernadette Twinomugisha",
+        "designation": "Head of HR"
     },
     {
         "id": 3,

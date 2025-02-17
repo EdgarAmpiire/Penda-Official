@@ -16,10 +16,10 @@ const MainMenu = () => {
                 </li>
                 <li>
                     <NavLink to={process.env.PUBLIC_URL + "/service"}>
-                        Service
+                        Services
                     </NavLink>
 
-                    <ul className="sub-menu">
+                    {/* <ul className="sub-menu">
                         <li className="sub-menu-item">
                             <NavLink
                                 className="sub-menu-link"
@@ -39,9 +39,14 @@ const MainMenu = () => {
                                 single service
                             </NavLink>
                         </li>
-                    </ul>
+                    </ul> */}
                 </li>
                 <li>
+                    <NavLink to={process.env.PUBLIC_URL + "/team"}>
+                        Team
+                    </NavLink>
+                </li>
+                {/* <li>
                     <NavLink to="/">Pages</NavLink>
                     <ul className="sub-menu">
                         <li className="sub-menu-item">
@@ -61,8 +66,8 @@ const MainMenu = () => {
                             </NavLink>
                         </li>
                     </ul>
-                </li>
-                <li>
+                </li> */}
+                {/* <li>
                     <NavLink to={process.env.PUBLIC_URL + "/blog"}>
                         Blog
                     </NavLink>
@@ -106,7 +111,7 @@ const MainMenu = () => {
                             </NavLink>
                         </li>
                     </ul>
-                </li>
+                </li> */}
                 <li>
                     <NavLink to={process.env.PUBLIC_URL + "/contact"}>
                         Contact

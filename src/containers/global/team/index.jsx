@@ -15,14 +15,14 @@ const TeamContainer = ({ classOption }) => {
                             <SectionTitle
                                 classOption="title-section"
                                 subTitle="TEAM"
-                                title="People, <span class='text-primary'>Behind</span> the Screen"
+                                title="People, <span class='text-primary'>Behind</span> the Magic"
                                 excerptClassOption="mb-5"
-                                excerpt="Pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain"
+                                excerpt="At Penda Agency, our team is the heart of everything we do. We’re a group of passionate professionals with diverse backgrounds, united by one goal—bringing your vision to life. Meet the talent and experience behind our success."
                             />
-                            <p className="high-light mb-8">
+                            {/* <p className="high-light mb-8">
                                 Pleasure rationally encounter consequences that
                                 are extremely painful. Nor again is there
-                            </p>
+                            </p> */}
                             <Button
                                 classOption="btn btn-lg btn-dark btn-hover-dark"
                                 text="View more"

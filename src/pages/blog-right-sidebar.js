@@ -18,9 +18,10 @@ const BlogRightSidebarPage = () => {
                     <Header />
                     <PageBanner
                         title="Blog Post"
-                        excerpt="Pleasure rationally encounter consequences <br />
+                        excerpt="Pleasure rationally encounter consequences We Don’t Just Film It – We Make It Legendary. <br />
                         are extremely painful great oppurtunity"
                         image="./images/blog/banner.png"
+                        // "We Don’t Just Film It – We Make It Legendary."""
                     />
                     <BlogItemRightContainer data={BlogData} />
                     <NewsletterArea />
