@@ -12,7 +12,7 @@
         "brand": [
             {
                 "id": 1,
-                "image": "./images/brand-logo/psfu.png"
+                "image": "./images/brand-logo/fourpoints.png"
             },
             {
                 "id": 2,
@@ -20,11 +20,11 @@
             },
             {
                 "id": 3,
-                "image": "./images/brand-logo/unoc.png"
+                "image": "./images/brand-logo/switch.png"
             },
             {
                 "id": 4,
-                "image": "./images/brand-logo/switch.png"
+                "image": "./images/brand-logo/unoc.png"
             }
         ]
     },
