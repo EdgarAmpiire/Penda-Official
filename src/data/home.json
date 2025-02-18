@@ -12,19 +12,63 @@
         "brand": [
             {
                 "id": 1,
-                "image": "./images/brand-logo/fourpoints.png"
+                "image": "./images/brand-logo/psfu.png"
             },
             {
                 "id": 2,
-                "image": "./images/brand-logo/pwc.png"
+                "image": "./images/brand-logo/unoc.png"
             },
             {
                 "id": 3,
-                "image": "./images/brand-logo/switch.png"
+                "image": "./images/brand-logo/chambers.png"
             },
             {
                 "id": 4,
-                "image": "./images/brand-logo/unoc.png"
+                "image": "./images/brand-logo/giz.png"
+            },
+            {
+                "id": 5,
+                "image": "./images/brand-logo/fourpoints.png"
+            },
+            {
+                "id": 6,
+                "image": "./images/brand-logo/pwc.png"
+            },
+            {
+                "id": 7,
+                "image": "./images/brand-logo/serena.png"
+            },
+            {
+                "id": 8,
+                "image": "./images/brand-logo/isaca.png"
+            },
+            {
+                "id": 9,
+                "image": "./images/brand-logo/oakseed.png"
+            },
+            {
+                "id": 10,
+                "image": "./images/brand-logo/switch.png"
+            },
+            {
+                "id": 11,
+                "image": "./images/brand-logo/fenon.png"
+            },
+            {
+                "id": 12,
+                "image": "./images/brand-logo/ween.png"
+            },
+            {
+                "id": 13,
+                "image": "./images/brand-logo/inuma.png"
+            },
+            {
+                "id": 14,
+                "image": "./images/brand-logo/flawless.png"
+            },
+            {
+                "id": 15,
+                "image": "./images/brand-logo/madmccann.png"
             }
         ]
     },
