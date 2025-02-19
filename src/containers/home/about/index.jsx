@@ -17,7 +17,7 @@ const HomeAboutContainer = () => {
     }, []);
     return (
         <div className="about-us position-relative">
-            <div className="container">
+            <div className="container mt-10">
                 <div className="row mb-n7">
                     <div className="col-xl-5 col-lg-6 mb-7">
                         <div className="about-content">

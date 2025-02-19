@@ -30,11 +30,11 @@ const Intro = ({ data }) => {
                                 text="Get Started"
                                 path="/about"
                             />
-                            <Button
+                            {/* <Button
                                 classOption="btn btn-lg animated delay2 btn-secondary btn-hover-secondary mb-3 mb-sm-0"
                                 text="Book a Meeting"
                                 path="/contact"
-                            />
+                            /> */}
                         </div>
                     </div>
                     <div className="col-lg-6">
