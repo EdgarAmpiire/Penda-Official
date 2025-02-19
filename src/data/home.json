@@ -12,19 +12,19 @@
         "brand": [
             {
                 "id": 1,
-                "image": "./images/brand-logo/Isacalogo.png"
+                "image": "./images/brand-logo/psfu.png"
             },
             {
                 "id": 2,
-                "image": "./images/brand-logo/inuma.png"
+                "image": "./images/brand-logo/unoc.png"
             },
             {
                 "id": 3,
-                "image": "./images/brand-logo/oakseed.png"
+                "image": "./images/brand-logo/pwc.png"
             },
             {
                 "id": 4,
-                "image": "./images/brand-logo/giz.png"
+                "image": "./images/brand-logo/switch.png"
             }
             
         ]
