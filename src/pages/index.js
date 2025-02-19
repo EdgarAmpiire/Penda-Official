@@ -29,7 +29,7 @@ const HomePage = () => {
                     <IconBoxContainer classOption="section-pb" />
                     <ServiceListContainer />
                     <BrandContainer />
-                    <TestimonialContainer />
+                    {/* <TestimonialContainer /> */}
                     {/* <FunFactContainer classOption="mt-10 mt-lg-0" /> */}
                     <TeamContainer classOption="section-py" />
                     <HomeBlog />
