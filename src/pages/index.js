@@ -7,13 +7,14 @@ import IconBoxContainer from "../containers/global/icon-box";
 // import NewsletterArea from "../containers/global/newsletter";
 import TeamContainer from "../containers/global/team";
 import TestimonialContainer from "../containers/global/testimonial";
-import HomeAboutContainer from "../containers/home/about";
+// import HomeAboutContainer from "../containers/home/about";
 import HomeBlog from "../containers/home/blog";
 import IntroContainer from "../containers/home/intro";
 import ServiceListContainer from "../containers/service/service-list";
 import Footer from "../layouts/footer";
 import Header from "../layouts/header";
 import Layout from "../layouts/index";
+import AboutContainer from "../containers/about";
 
 const HomePage = () => {
     return (
@@ -23,13 +24,14 @@ const HomePage = () => {
                 <div className="wrapper">
                     <Header />
                     <IntroContainer />
-                    <HomeAboutContainer />
+                    {/* <HomeAboutContainer /> */}
+                    <AboutContainer />
                     <IconBoxContainer classOption="section-pb" />
                     <ServiceListContainer />
                     <BrandContainer />
                     <TestimonialContainer />
                     {/* <FunFactContainer classOption="mt-10 mt-lg-0" /> */}
-                    <TeamContainer classOption="section-pb" />
+                    <TeamContainer classOption="section-py" />
                     <HomeBlog />
                     {/* <NewsletterArea /> */}
                     <Footer />

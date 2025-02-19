@@ -18,8 +18,8 @@ const AboutContainer = () => {
     return (
         <div className="about-us position-relative mt-10">
             <div className="container">
-                <div className="row mb-n7 align-items-center">
-                    <div className="col-xl-5 col-md-6 offset-xl-1 mb-7">
+                <div className="row mb-n1 align-items-center">
+                    <div className="col-xl-5 col-md-6 offset-xl-1 mb-1">
                         <div className="about-content">
                             <SectionTitle
                                 classOption="title-section"
@@ -51,7 +51,7 @@ const AboutContainer = () => {
                             />
                         </div>
                     </div>
-                    <div className="col-xl-6 order-lg-first col-md-6 mb-7">
+                    <div className="col-xl-6 order-lg-first col-md-6 mb-1">
                         <div
                             className="about-photo scene text-center text-lg-left"
                             id="scene"
