@@ -13,7 +13,7 @@ const IconBoxContainer = ({ classOption }) => {
                 src={`${process.env.PUBLIC_URL}/images/feature/shape.png`}
                 alt="images_not_found"
             />
-            <div className="container custom-container">
+            <div className="container custom-container mt-10">
                 <div className="row g-0 align-items-center">
                     <div className="col-xl-6 col-lg-8 mx-auto mb-3 text-center">
                         <SectionTitle

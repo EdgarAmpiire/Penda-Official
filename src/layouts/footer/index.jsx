@@ -164,39 +164,6 @@ const Footer = () => {
                                             Audio Visual Equipment Supply
                                         </Link>
                                     </li>
-                                    <li>
-                                        <Link
-                                            className="footer-link"
-                                            to={
-                                                process.env.PUBLIC_URL +
-                                                `/service-details/1`
-                                            }
-                                        >
-                                            Documentary Production
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link
-                                            className="footer-link"
-                                            to={
-                                                process.env.PUBLIC_URL +
-                                                `/service-details/5`
-                                            }
-                                        >
-                                            Graphics Design
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link
-                                            className="footer-link"
-                                            to={
-                                                process.env.PUBLIC_URL +
-                                                `/service-details/6`
-                                            }
-                                        >
-                                            Photography & Videography
-                                        </Link>
-                                    </li>
                                 </ul>
                             </div>
                         </div>
