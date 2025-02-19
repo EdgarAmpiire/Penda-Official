@@ -2,14 +2,16 @@ import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 import HomeData from "../../../data/home.json";
 import Brand from "../../../components/brand/index";
+import { Autoplay } from "swiper";
 
 const BrandContainer = () => {
     const swiperOption = {
         loop: true,
         speed: 800,
-        autoplay: {
+        Autoplay: {
             delay: 2000,
         },
+        // Autoplay: true,
         slidesPerView: 4,
         spaceBetween: 0,
         pagination: false,

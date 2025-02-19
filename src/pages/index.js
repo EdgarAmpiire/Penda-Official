@@ -23,10 +23,10 @@ const HomePage = () => {
                 <div className="wrapper">
                     <Header />
                     <IntroContainer />
-                    <BrandContainer />
-                    <IconBoxContainer classOption="section-pb" />
                     <HomeAboutContainer />
+                    <IconBoxContainer classOption="section-pb" />
                     <ServiceListContainer />
+                    <BrandContainer />
                     <TestimonialContainer />
                     {/* <FunFactContainer classOption="mt-10 mt-lg-0" /> */}
                     <TeamContainer classOption="section-pb" />
